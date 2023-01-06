@@ -15,8 +15,8 @@
 Adafruit_BME280 bme;
 LiquidCrystal_I2C lcd(0x27, 16, 2);
 
-char ssid[] = "Dufrene";
-char pass[] = "bonsoire";
+char ssid[] = "TON SSID ICI";
+char pass[] = "TON MDP ICI";
 int status = WL_IDLE_STATUS;
 
 void setup() {
