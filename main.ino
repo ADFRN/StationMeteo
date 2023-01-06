@@ -1,9 +1,7 @@
 #include <Adafruit_BME280.h>                
-#include <Wire.h> //Librairie I2C
-#include <Adafruit_BME280.h> //Librairie BME280
-#include <LiquidCrystal_I2C.h> //Librairie LCD
-//#include <ESP8266HTTPClient.h> //Librairie HTTP
-//#include <ArduinoJson.h> //Librairie JSON
+#include <Wire.h>
+#include <Adafruit_BME280.h>
+#include <LiquidCrystal_I2C.h>
 #include <WiFiNINA.h>
 #include <SPI.h>
 #include <WiFiNINA.h>
